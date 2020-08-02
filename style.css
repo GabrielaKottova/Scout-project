@@ -1,3 +1,59 @@
+/* h1 {
+  text-align: center;
+  font-family:'Rubik', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 5px 5px 5px rgb(77, 77, 77);
+  font-size: 12px;
+
+  position: absolute;  
+  top: 45%;
+  margin-right: 50%;
+  margin-left: 49%;
+  
+  
+  white-space: nowrap; 
+  
+
+}
+
+.uvodni {
+  position: relative;  
+  background-color: beige;
+  height: 300px;
+  
+}
+
+.skaut {
+  width: 100%;
+} */
+
 h1 {
-  color: aquamarine;
+  text-align: center;
+  font-family:'Rubik', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 5px 5px 5px rgb(77, 77, 77);
+  font-size: 18px;
+
+  white-space: nowrap; 
+
+  padding: 70px 30px;
+  
+
+}
+
+header {
+  position: relative;  
+  background-color: beige;  
+  background-image: url(images/skauting-kroj.jpg);
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.skaut {
+  width: 100%;
 }
